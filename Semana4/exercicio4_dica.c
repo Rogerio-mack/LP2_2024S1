@@ -1,0 +1,3 @@
+Se d é divisor de n, então: 
+
+... n % d == 0 ...
