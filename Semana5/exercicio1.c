@@ -8,12 +8,12 @@ bool crescente(int v[], int n) {
     return true;
 }
 
-bool crescente(int v[], int n) {
-    bool ehcrescente = True;
+bool crescente2(int v[], int n) {
+    bool ehcrescente = true;
     
     for (int i = 0; i < n-1; i++) {
         if (v[i] >= v[i+1]) { 
-          ehcrescente = False;
+          ehcrescente = false;
           break;
         }
     }
