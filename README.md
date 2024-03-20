@@ -10,3 +10,5 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 
 [Semana 4](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana4/ap2-semana4-lab.pdf)
 
+[Semana 5](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana4/ap2-semana5-lab.pdf)
+
