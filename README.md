@@ -12,4 +12,6 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 
 [Semana 5](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana5/ap2-semana5-lab.pdf)
 
+[Semana 6](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana6/ap2-semana6-matrizes.pdf)
+
 [Projeto I](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/AP2_PROJETO1.pdf) > *Entrega, 07.04*
