@@ -20,4 +20,4 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
  
 >> [N1 Excel](https://github.com/Rogerio-mack/LP2_2024S1/raw/main/02N11%20Notas_N1.xlsx) | [Lab N1 pdf](https://github.com/Rogerio-mack/LP2_2024S1/raw/main/02N11%20Notas_N1b.pdf)
 
-> Havendo necessidade de revisão das notas trataremos em sala.
+> Havendo necessidade de revisão das notas procure o professor em sala.
