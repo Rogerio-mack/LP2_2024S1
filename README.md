@@ -15,3 +15,9 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 [Semana 6](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana6/ap2-semana6-matrizes.pdf) Matrizes (6, 7), Busca Linear x Binária
 
 [Projeto I](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/AP2_PROJETO1.pdf) > *Entrega, 07.04*
+
+> Seguem as notas e comentários das atividades de Laboratório.
+ 
+>> [N1 Excel](https://github.com/Rogerio-mack/LP2_2024S1/raw/main/02N11%20Notas_N1.xlsx) | [Lab N1 pdf](https://github.com/Rogerio-mack/LP2_2024S1/raw/main/02N11%20Notas_N1b.pdf)
+
+> Havendo necessidade de revisão das notas trataremos em sala.
