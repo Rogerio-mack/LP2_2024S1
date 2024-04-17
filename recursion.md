@@ -26,7 +26,9 @@ int main()
     return 0;
 }
 
-Necessidade de função recursiva
+```
+
+# Necessidade de função recursiva
 
 Uma função recursiva é uma função que resolve um problema resolvendo instâncias menores do mesmo problema. 
 
@@ -53,4 +55,3 @@ Funções recursivas são ótimas para trabalhar com estruturas de árvores e gr
 
 **Caso recursivo**: No caso recursivo, a função chama a si mesma com os argumentos modificados. Esta é a essência da recursão – resolver um problema maior dividindo-o em instâncias menores do mesmo problema. O caso recursivo deve se aproximar do caso base a cada iteração.
 
-```
