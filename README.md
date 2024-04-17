@@ -25,3 +25,10 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 [Semana 7](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana7/ap2-semana12-lab.pdf) Algoritmos de busca simples
 
 > Acesse: [Bubble Sort Visualizer](https://www.hackerearth.com/practice/algorithms/sorting/bubble-sort/visualize/)
+
+[Semana 8](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana8/APII-Semana12-Recurs%C3%A3o.pdf) Recursão
+
+> Acesse: [Recursion](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/recursion.md)
+
+
+
