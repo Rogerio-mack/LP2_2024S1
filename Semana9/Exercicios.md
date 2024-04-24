@@ -9,7 +9,7 @@
 > Escreva um programa em C para reverter um determinado número inteiro usando um loop do-while (sem recursão).
 
 * Exercício 3.
-> Implemente em para um array numérico em C funções equivalentes aos métodos de listas do Python: count, index, reverse e sort. 
+> Implemente para um array numérico em C funções equivalentes aos métodos de listas do Python: count, index, reverse e sort. 
 Todas as funções podem receber o tamanho do vetor (MAX_SIZE 100). Crie o programa main() que emprega e testa essas funções. 
 
 
