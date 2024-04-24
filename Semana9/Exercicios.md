@@ -10,6 +10,17 @@
 
 * Exercício 3.
 > Implemente para um array numérico em C funções equivalentes aos métodos de listas do Python: count, index, reverse e sort. 
-Todas as funções podem receber o tamanho do vetor (MAX_SIZE 100). Crie o programa main() que emprega e testa essas funções. 
+Todas as funções podem receber o tamanho do vetor (MAX_SIZE 100). Crie o programa main() que emprega e testa essas funções.
+
+* Exercício 4.
+> Crie uma função em C para calcular o determinante de uma matriz 3x3 e um programa main() em que o usuário entra com os elementos da matriz,
+a matriz é mostrada e o determinante calculado com a função. 
+
+* Exercício 5.
+> Escreva uma função em C para reverter um determinado número inteiro usando recursão. Inclua o programa main() de teste da sua função.
+
+* Exercício 6.
+> Implemente uma função de busca binária **recursiva** em um array ordenado. Inclua o programa main() de teste da sua função.
+
 
 
