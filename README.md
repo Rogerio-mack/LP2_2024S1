@@ -32,7 +32,7 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 
 [Semana 9] *Revisão*
 
-[Semana 10](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana10/Lab10.md)*Strings e Ponteiros*
+[Semana 10](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana10/Lab10.md) *Strings e Ponteiros*
 
 
 
