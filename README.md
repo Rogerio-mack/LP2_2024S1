@@ -32,7 +32,11 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 
 [Semana 9] *Revisão*
 
+[Projeto II](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Projeto-Dicionario_do_Samuel.pdf), *Entrega 29.05*
+
 [Semana 10](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana10/Lab10.md) *Strings e Ponteiros*
+
+
 
 
 
