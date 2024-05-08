@@ -4,16 +4,26 @@
 
 Escreva um código em C que peça para o usuário digitar o nome e, a seguir, imprima o nome digitado do contrário (do último para o primeiro caractere).
 
+* *Lab10_ex2*
+
+Faça um programa em C para uma dada variável numérica, endereçada por um ponteiro, exibir: a) o conteúdo da variável; b) o endereço da variável; c) o conteúdo do ponteiro.
+
+* *Lab10_ex3*
+
+Faça um programa em C que emprega uma função Calculadora que recebe ponteiros de duas variáveis inteiras e retorna a soma, subtração, multiplicação ou divisão inteira em um endereço de uma variável resultado.  
+
+<br>
+
 Complemente o exercício 3 do Lab da semana anterior. Lá para um array numérico em C você criou funções equivalentes aos métodos de listas do Python: count, index, reverse e sort. 
 Inclua agora os métodos: append, insert, pop e remove. Todas as funções podem receber o tamanho do vetor (MAX_SIZE 100). 
 
-* *Lab10_ex2*, `append`
+* *Lab10_ex4*, `append`
 
-* *Lab10_ex3*, `insert`
+* *Lab10_ex5*, `insert`
 
-* *Lab10_ex4*, `pop`
+* *Lab10_ex6*, `pop`
 
-* *Lab10_ex5*, `remove`
+* *Lab10_ex7*, `remove`
 
 * *Lab10_ex_Final* (postar este apenas)
 
