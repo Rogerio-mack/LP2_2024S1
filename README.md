@@ -36,7 +36,9 @@ Para cada semana, poste no *Moodle* o link da pasta da semana correspondente (*s
 
 [Semana 10](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana10/Lab10.md) *Strings e Ponteiros*
 
-[Semana 11](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana11/participacao.pdf) *Exercício de 0.5 de participação*
+[Semana 11](https://github.com/Rogerio-mack/LP2_2024S1/blob/main/Semana11/participacao.pdf) *Exercício de 0.5 de participação*,
+
+<br>
 
 [**Notas Lab N2**](https://github.com/Rogerio-mack/LP2_2024S1/raw/main/N2%2002N11.xlsx)
 
